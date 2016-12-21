@@ -1,6 +1,5 @@
 # End of year review of my work zero waste pot
-Actually from May when I first started. But still. Clockwised from top left:
-
+Clockwised from top left:
 - Tin foil from chocolate bars and breakfast roll
 - Fruit trays
 - Apple stickers
