@@ -1,15 +1,15 @@
----
+
 title: Ready meals
 layout: post
----
+
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
 ![](/assets/readymeal_waitrose.jpg)
 
 Interestingly the frozen section has plenty of choice in simply packaged
 products.
----
+
 layout: post
----
+
 I've been thinking about this granola for a while and finally found some dried
 fruit that doesn't come in a plastic bag. It's basically 300g of oats and then
 60g of anything else you have to hand.
@@ -53,9 +53,9 @@ tray.
 Starting with 300g of oats makes one baking tray's worth. I tend to do two at
 once, the lower one stays in for the first eight minutes, stir and then
 I bring it to the top for a further four minutes.
----
+
 layout: post
----
+
 Shop bought bread can really only come from a proper baker. In this case it's chewy white
 from Real Pâtisserie. You can get Real Pâtisserie bread from Taj but it mostly comes in 
 perforated plastic bags. At a push you could buy buns from Waitrose and put them in the
@@ -71,9 +71,9 @@ Cracking sea salt and rosemary sourdough from hisBe. Wow!
 
 Deft lame work from Silo.
 ![](/assets/bread_silo.jpg)
----
+
 layout: post
----
+
 Why would you buy a net of tiny lemons from a supermarket when you could have
 these beauties?
 ![](/assets/lemon_taj.jpg)
@@ -91,9 +91,9 @@ kilo but still.
 By contrast, organic apples from Waitrose. Each sealed in plastic and with a choice of carbon
 footprint: Argentina, Chile or New Zealand.
 ![](/assets/apples2_waitrose.jpg)
----
+
 layout: post
----
+
 The first oats I found that didn't come in a plastic bag or a box with a plastic
 panel. They even suggest you compost the packet. Love Pimhill Farm!
 ![](/assets/oats_pimhill.jpg)
@@ -109,18 +109,18 @@ And a couple from Waitrose in paper packaging. However, if we're going to be
 fussy--and we shall--they both feature an unnecessary plastic tab on the top.
 ![](/assets/oats_flahavans.jpg)
 ![](/assets/oats_mornflake.jpg)
----
+
 title: Toilet roll
 layout: post
----
+
 Paper from FSC approved sources, plastic in the Waitrose carrier bag recycling.
 ![](/assets/toiletroll_waitrose1.jpg)
 
 And more recently, toilet roll made from recycled paper.
 ![](/assets/toiletroll_waitrose2.jpg)
----
+
 layout: post
----
+
 Where can you buy cheese without any packaging? Tricky. La Cave à Fromage in
 Hove is the answer. They're very accommodating and let me use my own box: zero
 packaging with my delicious [Mayfield
@@ -131,10 +131,10 @@ vegetarian mountain cheese made in Sussex.
 And here's some Labneh (yoghurt) in a jar from Taj. It pretty much tastes like
 the beautiful goat cheese figuettes but at a fraction of the price. 
 ![](/assets/labneh_taj.jpg)
----
+
 title: Sandwich greens
 layout: post
----
+
 All major supermarkets pack their greens in plastic so they're out. However, Taj
 do bundles of spinach with no packaging; we just need to juice the stems, compost the
 roots and put the rubber bands to good use.
@@ -143,10 +143,10 @@ roots and put the rubber bands to good use.
 
 Proper spring onions from Taj!
 ![](/assets/spring_onions.jpg)
----
+
 title: hiSbe Food CIC
 layout: post
----
+
 I must confess I've only recently started visiting [hisBe](http://hisbe.co.uk/) regularly: when the zero-waste ideal really clicked in my brain. I tend to write articles about products but hisBe have so many things that only _they_ do that it makes more sense to list them on one page.
 
 __Deydrated coconut__
@@ -162,14 +162,14 @@ Waitrose is at £15-20/Kg for a 100g bar of Green and Blacks. And you have to do
 something with the packaging.
 ![](/assets/chocolate_hisbe.jpg)
 
----
+
 layout: post
----
+
 In the week newspapers are generally OK but at the weekend the food/environment pullouts must come in a plastic bag for convenience.
----
+
 title: Plastic bags
 layout: post
----
+
 It goes without saying: no plastic bags. Ever! People argue that they reuse
 them, but how many times must they be reused to justify the decades they will be
 hanging around afterwards? Must they be handed down to their children to offset
@@ -215,10 +215,10 @@ And here are some biodegradable bin bags from Infinity Foods. See
 ![](/assets/binbags_d2w.jpg)
 
 ![](/assets/bag_hisbe.jpg)
----
+
 title: Tea, please...
 layout: post
----
+
 A goodly selection of loose tea and tea-supping accoutrements from Bluebird Tea Co. and 10% discount for bringing your own pot.
 ![](/assets/tea_bluebird.jpg)
 
@@ -236,25 +236,25 @@ As do Yogi. But be careful as I have seen some in plastic wrap!
 As an aside: all three look like they're tied shut. But the Heath and Heather
 also appear to be thermally sealed suggesting a small quantity of plastic in the
 paper mix.
----
+
 title: Beer and wine
 layout: post
----
+
 [Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of
 beer--affectionately known as "growlers"--from their shop on East Street. If
 purchasing beer from a supermarket then don't choose those with six-pack rings.
 Ten packs come in a cardboard box with no plastic. Or go to the pub!
----
+
 title: Precious Plastic
 layout: post
----
+
 Small scale plastic processing kits. The future!
 
 http://preciousplastic.com/
----
+
 title: Cleaning products
 layout: post
----
+
 Lots of options for buying soap without packaging but this is by Faith In
 Nature and smells of rosemary. Bought from hisBe.
 ![](/assets/soap_faith.jpg)
@@ -264,16 +264,16 @@ And a Vatika bar from Taj wrapped only in cardboard.
 
 Loose fabric conditioner from hisBe:
 ![](/assets/fabric_conditioner.jpg)
----
+
 title: Refuse collection
 layout: post
----
+
 It's easy to forget how convenient it is for somebody else to sort your rubbish out for you. 
 Brighton during the bin strike, June 2013. 
 ![](/assets/bin_strike.jpg)
----
+
 layout: post
----
+
 ![](/assets/honey_brighton.jpg)
 
 Spoilt for choice with honey. This was excellent from Surrey. So good I ate it
@@ -282,9 +282,9 @@ before I managed to take a photo.
 
 A great selection of Payne's honey from Taj.
 ![](/assets/honey_paynes.jpg)
----
+
 layout: post
----
+
 We're fortunate enough to have a good supply in Brighton so it's difficult to
 justify bottled water. But it is of course treated. If you're concerned about
 chlorination for general consumption or home baking then it can be left to stand
@@ -298,10 +298,10 @@ For some bottle facts see [Ban the
 Bottle](https://www.banthebottle.net/bottled-water-facts/). And see how
 [Southern Water](https://www.southernwater.co.uk/water-treatment) treat what
 comes out of our taps.
----
+
 title: The only post on animal welfare and passive aggression (skip if not important to you)
 layout: post
----
+
 __"We are evolved to eat meat"__ - It cannot be denied that we derive sustenance
 by eating animals. But does that mean it's good for us? And the planet? We could
 *exist* by eating a mono diet of puffins but would we be healthy? Equally we can
@@ -340,10 +340,10 @@ grass-fed cattle?
 
 Or we could just eat the soy and live perfectly healthy lives without killing
 anything.
----
+
 title: Spectacular low-impact cheese sandwich
 layout: post
----
+
 ![](/assets/sandwich2.jpg)
 
 - Bread, Silo
@@ -360,35 +360,35 @@ layout: post
 
 ![](/assets/sandwich1.jpg)
 ![](/assets/spinach_roots.jpg)
----
+
 title: Glass jars
 layout: post
----
+
 Love a nice glass jar. And if you end up with too many somewhere like
 [Silo](http://www.silobrighton.com) or [Flank](http://www.flankbrighton.com/)
 will probably take them off your hands. Make sure to avoid those with plastic
 seals. 
 ![](/assets/glass_jars.jpg)
----
+
 title: I remember when everything around here was sealed in small claustrophobic boxes
 layout: post
----
+
 Before long all you see is plastic. Equal-portioned high-carbon footprint
 produce condemned to a petrochemical tomb. As nature intended.
 ![](/assets/plastic_waitrose.jpg)
----
+
 layout: post
----
+
 Dried goji berries from hisBe.
 ![](/assets/goji_hisbe.jpg)
 
 Loose apricots from Taj.
 ![](/assets/apricots_taj.jpg)
 
----
+
 title: Trash is for tossers
 layout: post
----
+
 Great dinner and chat with zero waste luminaries Douglas McMaster (Silo
 Brighton), Tom Griffiths (Flank) and Lauren Singer.
 ![](/assets/rhubarb_silo.jpg)
@@ -396,10 +396,10 @@ Brighton), Tom Griffiths (Flank) and Lauren Singer.
 - http://www.trashisfortossers.com/
 - http://www.silobrighton.com/
 - http://www.flankbrighton.com/
----
+
 title: Which types of plastic can be recycled?
 layout: post
----
+
 From [Brighton and Hove recycling
 FAQ](http://www.brighton-hove.gov.uk/content/environment/recycling-rubbish-and-street-cleaning/recycling-faqs)
 
@@ -434,10 +434,10 @@ And come contradictory advice from Twitter:
 >  If you're removing plastic lids from glass bottles, just unscrew the top and
 >  leave the ring attached to the bottle. You can cut them off if you really
 >  want to remove them. Plastic bottles can have them left on. Ryan.
----
+
 title: Soya milk and Tetra Pack recycling
 layout: post
----
+
 Couldn't find the Tetra Pack recycling point on the [council website](http://www.brighton-hove.gov.uk/content/recycling-bins-map) but it's [here](https://www.google.co.uk/maps/@50.8285584,-0.1377455,3a,15y,296.01h,78.37t/data=!3m6!1e1!3m4!1swEfHWdBDEH__9ClosMu0Vg!2e0!7i13312!8i6656?hl=en). Magpie might collect them too.
 ![](/assets/tetrapacks.jpg)
 
@@ -446,32 +446,32 @@ Alpro and granaVita have slightly fewer components: some of them have an extra p
 
 And Bonsoy has no plastic bits... yey! (But it is twice the price.)
 ![](/assets/bonsoy.jpg)
----
+
 title: Loose peppers
 layout: post
----
+
 In Waitrose you can buy two loose peppers. Or two peppers in a plastic bag. 
 ![](/assets/peppers_waitrose.jpg)
----
+
 title: Bike snacks
 layout: post
----
+
 Pop some of these in your jersey. Loose apricots from Taj.
 ![](/assets/apricots_taj.jpg)
 
 Note: paper bag is from hisBe, they only have plastic bags in Taj.
----
+
 layout: post
----
+
 Nice bit of lemongrass from Taj.
 ![](/assets/lemongrass_taj.jpg)
 
 You can repurpose the bands or make an awesome rubber band ball!
 ![](/assets/rubberband_ball.jpg)
----
+
 title: Kimchi / sauerkraut
 layout: post
----
+
 ![](/assets/kimchi1.jpg)
 
 There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
@@ -499,45 +499,45 @@ like the taste on a certain day move it to the fridge to slow it down.
 
 ![](/assets/kimchi2.jpg)
 ![](/assets/kimchi4.jpg)
----
+
 title: ASUS laptop
 layout: post
----
+
 New laptop. That's _so_ close to using only recyclable packaging. Come on, guys!
 ![](/assets/asus_laptop.jpg)
----
+
 title: Salt
 layout: post
----
+
 hisBe have pulled out the stops and are now enabling us to buy salt without also buying bits of plastic to pour it with.
 ![](/assets/salt_hisbe.jpg)
 
 Alternatively, Tidman's might just save the day.
 
 http://www.maldonsalt.co.uk/Products-Tidmans-Salt.html
----
+
 title: Vegetable bouillon
 layout: post
----
+
 Not something I'd even considered buying loose. hisBe are great.
 ![](/assets/bouillon.jpg)
----
+
 title: Socks
 layout: post
----
+
 Didn't think I would be posting about socks when I started this but hey!
 Interesting material and minimal packaged. In fact the only thing that wasn't
 recyclable was the security tag on the back.
 ![](/assets/socks.jpg)
----
+
 layout: post
----
+
 New pan-Asian restaurant Mye Mye. If you pick carefully you can walk out with
 all biodegradable packaging. And it's tasty!
 ![](/assets/myemye.jpg)
----
+
 layout: post
----
+
 I used to use Billington's for bread making but why does it only come
 wrapped in plastic? Old school Tate and Lyle it is. 
 ![](/assets/sugar_tate.jpg)
@@ -547,17 +547,17 @@ Paper packaging, made in Britain: cannot argue with that.
 
 Or just for kicks why not try coconut sugar?
 ![](/assets/coconut_sugar.jpg)
----
+
 layout: post
----
+
 Why does it take a turtle video to make people wake up?
 
 http://thelastplasticstraw.org/
 
 Silo were actually using metal straws last time I visited.
----
+
 layout: post
----
+
 
 - 2 large tomatoes
 - 1 long shallot
@@ -570,19 +570,19 @@ for five days or so until it is zingy.
 ![](/assets/fermented_salsa1.jpg)
 
 ![](/assets/fermented_salsa2.jpg)
----
+
 layout: post
----
+
 The addition of okra makes it quite slippery! So possibly not for everybody. But
 still.
 ![](/assets/okrachi3.jpg)
 
 ![](/assets/okrachi1.jpg)
 ![](/assets/okrachi2.jpg)
----
+
 title: End of year review of my work zero waste pot
 layout: post
----
+
 ![](/assets/zero-waste-review-2016-2.jpg)
 
 Actually from May when I first started. But still. Clockwised from top left:
@@ -605,9 +605,9 @@ Foil wrappers from crisps, seeds and chocolate
 
 Most things I keep in a jar.
 ![](/assets/zero-waste-review-2016-1.jpg)
----
+
 layout: post
----
+
 Old school "trouser bands" rather then the cooler snappy things that are made
 from bits of plastic and self-destruct after a couple of months.
 ![](/assets/trouser_bands.jpg)
