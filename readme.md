@@ -140,7 +140,7 @@ Deft lame work from Silo.
 
 ![](images/bread_silo.jpg)
 
-layout: post
+# Fruit
 
 Why would you buy a net of tiny lemons from a supermarket when you could have
 these beauties?
@@ -177,6 +177,7 @@ vessel.
 ![](images/oats_hisbe.jpg)
 
 I'm very fond of Wessex Mill's bread flour and just spotted their oats in Taj.
+
 ![](images/oats_wessexmill.jpg)
 
 And a couple from Waitrose in paper packaging. However, if we're going to be
@@ -296,6 +297,7 @@ And here are some biodegradable bin bags from Infinity Foods. See
 
 # Tea, please...
 A goodly selection of loose tea and tea-supping accoutrements from Bluebird Tea Co. and 10% discount for bringing your own pot.
+
 ![](images/tea_bluebird.jpg)
 ![](images/tea_bluebird2.jpg)
 
@@ -467,6 +469,7 @@ And come contradictory advice from Twitter:
 
 # Soya milk and Tetra Pack recycling
 Couldn't find the Tetra Pack recycling point on the [council website](http://www.brighton-hove.gov.uk/content/recycling-bins-map) but it's [here](https://www.google.co.uk/maps/@50.8285584,-0.1377455,3a,15y,296.01h,78.37t/data=!3m6!1e1!3m4!1swEfHWdBDEH__9ClosMu0Vg!2e0!7i13312!8i6656?hl=en). Magpie might collect them too.
+
 ![](images/tetrapacks.jpg)
 
 Alpro and granaVita have slightly fewer components: some of them have an extra plastic bung. 
@@ -506,7 +509,7 @@ packaging. So why not make your own?
 
 - 100% red cabbage (loose, Infinity Foods)
 - 25% wild garlic (wild, The Downs)
-- 1.6% [salt](/2016/08/20/salt.html)
+- 1.6% salt
 - 1% red chilli (loose, Taj)
 
 Chop everything and mix in the salt. Crush with your hands to get the juices
@@ -523,6 +526,7 @@ week. Is it delicious? If so, eat on homemade bread with aioli.
 The flavour profile evolves over the course of a few weeks. If you manage to not
 eat it all you'll notice the taste drops off after a few weeks. If you really
 like the taste on a certain day move it to the fridge to slow it down.
+
 ![](images/kimchi2.jpg)
 ![](images/kimchi4.jpg)
 
