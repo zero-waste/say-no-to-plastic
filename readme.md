@@ -1,31 +1,20 @@
 # End of year review of my work zero waste pot
-
-![](images/zero-waste-review-2016-2.jpg)
-
 Actually from May when I first started. But still. Clockwised from top left:
 
-Tin foil from chocolate bars and breakfast roll
-
-Fruit trays
-
-Apple stickers
-
-Coffee lids
-
-Bike light/shirt packaging
-
-Vitamins and medicine In blister packs
-
-Assorted plastic bags (mostly fruit and bread)
-
-Foil wrappers from crisps, seeds and chocolate
-
-Most things I keep in a jar.
+- Tin foil from chocolate bars and breakfast roll
+- Fruit trays
+- Apple stickers
+- Coffee lids
+- Bike light/shirt packaging
+- Vitamins and medicine In blister packs
+- Assorted plastic bags (mostly fruit and bread)
+- Foil wrappers from crisps, seeds and chocolate
+- Most things I keep in a jar.
 
 ![](images/zero-waste-review-2016-1.jpg)
+![](images/zero-waste-review-2016-2.jpg)
 
-layout: post
-
+# Bike clips
 Old school "trouser bands" rather then the cooler snappy things that are made
 from bits of plastic and self-destruct after a couple of months.
 
@@ -80,7 +69,6 @@ Interestingly the frozen section has plenty of choice in simply packaged
 products.
 
 # Low-impact granola
-
 I've been thinking about this granola for a while and finally found some dried
 fruit that doesn't come in a plastic bag. It's basically 300g of oats and then
 60g of anything else you have to hand.
@@ -174,7 +162,6 @@ choice of carbon footprint: Argentina, Chile or New Zealand.
 ![](images/apples2_waitrose.jpg)
 
 # Oats
-
 The first oats I found that didn't come in a plastic bag or a box with a plastic
 panel. They even suggest you compost the packet. Love Pimhill Farm!
 
@@ -223,7 +210,6 @@ do bundles of spinach with no packaging; we just need to juice the stems, compos
 roots and put the rubber bands to good use.
 
 ![](images/spinach_taj.jpg)
-
 ![](images/spinach_taj2.jpg)
 
 Proper spring onions from Taj!
@@ -593,7 +579,6 @@ mixture with your hands. Add to a jar making sure everything is submerged. Leave
 for five days or so until it is zingy.
 
 ![](images/fermented_salsa1.jpg)
-
 ![](images/fermented_salsa2.jpg)
 
 The addition of okra makes it quite slippery! So possibly not for everybody. But
