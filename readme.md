@@ -18,12 +18,6 @@ The jar emptied out, clockwised from top left:
 
 ![](images/zero-waste-review-2016-2.jpg)
 
-# Bike clips
-Old school "trouser bands" rather then the cooler snappy things that are made
-from bits of plastic and self-destruct after a couple of months.
-
-![](images/trouser_bands.jpg)
-
 # The only post on animal welfare and passive aggression (skip if not important to you)
 __"We are evolved to eat meat"__ - It cannot be denied that we derive sustenance
 by eating animals. But does that mean it's good for us? And the planet? We could
@@ -544,4 +538,5 @@ Or just for kicks why not try coconut sugar?
 
 ![](images/coconut_sugar.jpg)
 
-See [fermentation](fermentation.md)
+- [fermentation](fermentation.md)
+- [sport/exercise](sport.md)
