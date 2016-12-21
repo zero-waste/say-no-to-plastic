@@ -18,46 +18,6 @@ The jar emptied out, clockwised from top left:
 
 ![](images/zero-waste-review-2016-2.jpg)
 
-# The only post on animal welfare and passive aggression (skip if not important to you)
-__"We are evolved to eat meat"__ - It cannot be denied that we derive sustenance
-by eating animals. But does that mean it's good for us? And the planet? We could
-*exist* by eating a mono diet of puffins but would we be healthy? Equally we can
-live perfectly happily on only plants.
-
-__"Drinking cows' milk is unnatural"__ - We can only consume our own species?
-
-__"I only eat animals that have been looked after"__ - But does it matter?
-You're still slaughtering and eating them. Is this for your benefit or the animal?
-
-__"I'm an animal lover [but I'm not a vegan]"__ - How can you love animals and
-eat _any_ of them? You love consuming animals? You love _some_ animals and eat the
-rest?
-
-__"I eat cows but eating dogs is wrong"__ - What's acceptable to eat is, of
-course, completely arbitrary and driven by culture and religion.
-
-Is it size? I don't think so: cows are good (unless you're Hindu), horses bad.
-
-Is it intelligence? No. Pigs are reportedly as intelligent as dogs.
-
-Is it scarcity? Still no. Tigers bad, cod fine.
-
-Is it cuteness? Absolutely not. We eat tonnes of lamb but foxes go untouched
-bar the hunting.
-
-__"I don't eat animals but dairy is OK"__ - Do animals naturally live in a state
-of permanent pregnancy? If it were part of the natural cycle of the animal then
-it could be argued that's OK. But is this true for dairy cows?
-
-__"Animals are there for us to eat"__ - For survival, perhaps. But we grow
-plants to mass produce animals. If they're ours to eat why stop at one level of
-indirection? Why not fell forests to grow soy to raise cattle to rear crocodiles
-and then eat the crocodiles? Perhaps soy-fed cow crocs are tastier than
-grass-fed cattle?
-
-Or we could just eat the soy and live perfectly healthy lives without killing
-anything.
-
 # Ready meals
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
 
@@ -65,50 +25,6 @@ The veggie ready meal section in Waitrose. Without exception each has a plastic 
 
 Interestingly the frozen section has plenty of choice in simply packaged
 products.
-
-# Low-impact granola
-I've been thinking about this granola for a while and finally found some dried
-fruit that doesn't come in a plastic bag. It's basically 300g of oats and then
-60g of anything else you have to hand.
-
-![](images/granola.jpg)
-
-__From hiSbe Food CIC (loose):__
-
-- 300g large oats
-- 60g cacao nibs
-- 60g dried goji berries
-
-__From Waitrose:__
-
-- 60g Silverspoon UK-grown caster sugar (paper bag)
-
-__From Adam the apiarist - Surrey Honey (glass jar):__
-
-- 60g Surrey honey
-
-__From Taj (glass jar)__
-
-- 60g Coconut oil
-
-Combine everything bar the berries (lest they burn), spread on a tray and cook
-at 200C for 8 minutes until brown (give it a stir around halfway through). I
-tend to chuck the berries on top when it comes out of the oven.
-
-Actually you can chuck just about anything in and 60g seems a good proportion. I
-try not to make it too much about seeds but hemp and flax make an interesting
-addition. And if you're feeling flush you can omit the sugar and double up on
-the honey. I have tried olive oil when I've run out of coconut but it seems to
-catch (burn) very easily. Keep an eye on it.
-
-Once you're happy with it check your Twitter for a while whilst it cools and
-transfer to an airtight container. This does keep it nice and crisp but we're
-all busy people and it will keep quite happily for a week covered with another
-baking tray.
-
-Starting with 300g of oats makes one baking tray's worth. I tend to do two at
-once, the lower one stays in for the first eight minutes, stir and then I bring
-it to the top for a further four minutes.
 
 # Bread
 Shop bought bread can really only come from a proper baker. In this case it's
@@ -388,8 +304,6 @@ comes out of our taps.
 ![](images/spinach_roots.jpg)
 
 # Glass jars
-layout: post
-
 Love a nice glass jar. And if you end up with too many somewhere like
 [Silo](http://www.silobrighton.com) or [Flank](http://www.flankbrighton.com/)
 will probably take them off your hands. Make sure to avoid those with plastic
@@ -412,7 +326,6 @@ Loose apricots from Taj.
 
 ![](images/apricots_taj.jpg)
 
-
 # Trash is for tossers
 Great dinner and chat with zero waste luminaries Douglas McMaster (Silo
 Brighton), Tom Griffiths (Flank) and Lauren Singer.
@@ -422,55 +335,6 @@ Brighton), Tom Griffiths (Flank) and Lauren Singer.
 - http://www.trashisfortossers.com/
 - http://www.silobrighton.com/
 - http://www.flankbrighton.com/
-
-# Which types of plastic can be recycled?
-From [Brighton and Hove recycling
-FAQ](http://www.brighton-hove.gov.uk/content/environment/recycling-rubbish-and-street-cleaning/recycling-faqs)
-
-## Bottle recycling in Brighton
-
-Plastic bottles are the only plastics that Brighton & Hove and many other local
-authorities currently recycle. Plastic bottles are mainly made from PET plastic
-(soft drinks and water bottles) and HDPE (milk and detergent bottles). There are
-already markets for plastic bottles as these can be recycled back into bottles
-or even fleeces!
-
-There are several reasons why other plastics are not currently being recycled.
-These include:
-- There are not well developed and secure markets for all plastics. This means
-  we may not be able to sell them on.
-- Even though some items such as food trays might be made from PET, they have
-  different properties than the PET used to make bottles. This means we may not
-  be able to process the material.
-- Plastics are used to make food trays and there is a concern that residents
-  might place trays out for recycling that still contain food. If too much
-  recycling becomes contaminated, it cannot be processed.
-
-## Lids
-
-> Yes as the lids are made from different plastics so can contaminate the
-> recycling. Please wash and squash your plastic bottles and put them in your
-> recycling box without lids. 
-
-And come contradictory advice from Twitter:
-
-> BHCC_Cityclean (@RecyclingRefuse) Jan 7 2016, on communal recycling bins:
->  If you're removing plastic lids from glass bottles, just unscrew the top and
->  leave the ring attached to the bottle. You can cut them off if you really
->  want to remove them. Plastic bottles can have them left on. Ryan.
-
-# Soya milk and Tetra Pack recycling
-Couldn't find the Tetra Pack recycling point on the [council website](http://www.brighton-hove.gov.uk/content/recycling-bins-map) but it's [here](https://www.google.co.uk/maps/@50.8285584,-0.1377455,3a,15y,296.01h,78.37t/data=!3m6!1e1!3m4!1swEfHWdBDEH__9ClosMu0Vg!2e0!7i13312!8i6656?hl=en). Magpie might collect them too.
-
-![](images/tetrapacks.jpg)
-
-Alpro and granaVita have slightly fewer components: some of them have an extra plastic bung. 
-
-![](images/soya_milk.jpg)
-
-And Bonsoy has no plastic bits... yey! (But it is twice the price.)
-
-![](images/bonsoy.jpg)
 
 # Loose peppers
 In Waitrose you can buy two loose peppers. Or two peppers in a plastic bag. 
@@ -540,3 +404,6 @@ Or just for kicks why not try coconut sugar?
 
 - [fermentation](fermentation.md)
 - [sport/exercise](sport.md)
+- [animal welfare](welfare.md)
+- [recycling](recycling.md)
+- [cooking](cooking.md)
