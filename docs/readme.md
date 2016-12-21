@@ -1,4 +1,3 @@
-
 # Ready meals
 
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
@@ -53,7 +52,7 @@ Starting with 300g of oats makes one baking tray's worth. I tend to do two at
 once, the lower one stays in for the first eight minutes, stir and then
 I bring it to the top for a further four minutes.
 
-layout: post
+# Bread
 
 Shop bought bread can really only come from a proper baker. In this case it's chewy white
 from Real Pâtisserie. You can get Real Pâtisserie bread from Taj but it mostly comes in 
