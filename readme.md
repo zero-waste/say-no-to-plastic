@@ -1,3 +1,5 @@
+[About me](about.md)
+
 # Ready meals
 
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
