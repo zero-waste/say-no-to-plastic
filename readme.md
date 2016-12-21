@@ -1,3 +1,10 @@
+- [fermentation](fermentation.md)
+- [sport](sport.md)
+- [welfare](welfare.md)
+- [recycling](recycling.md)
+- [cooking](cooking.md)
+- [baking](baking.md)
+
 # End of year review of my work zero waste pot
 Pledge to keep everything that doesn't biodegrade nor is recyclable in your
 area or office. This is my last nine month's worth.
@@ -25,28 +32,6 @@ The veggie ready meal section in Waitrose. Without exception each has a plastic 
 
 Interestingly the frozen section has plenty of choice in simply packaged
 products.
-
-# Bread
-Shop bought bread can really only come from a proper baker. In this case it's
-chewy white from Real Pâtisserie. You can get Real Pâtisserie bread from Taj but
-it mostly comes in perforated plastic bags. At a push you could buy buns from
-Waitrose and put them in the plain paper bags from the mushroom section rather
-than those with the plastic panel.
-
-![](images/bread_real_patisserie.jpg)
-
-Apart from baguettes! You can also use the spare paper bags for other groceries rather
-than the plastic ones.
-
-![](images/baguettes.jpg)
-
-Cracking sea salt and rosemary sourdough from hisBe. Wow! 
-
-![](images/bread_hisbe.jpg)
-
-Deft lame work from Silo.
-
-![](images/bread_silo.jpg)
 
 # Fruit
 
@@ -341,13 +326,6 @@ In Waitrose you can buy two loose peppers. Or two peppers in a plastic bag.
 
 ![](images/peppers_waitrose.jpg)
 
-# Bike snacks
-Pop some of these in your jersey. Loose apricots from Taj.
-
-![](images/apricots_taj.jpg)
-
-Note: paper bag is from hisBe, they only have plastic bags in Taj.
-
 # Lemongrass
 Nice bit of lemongrass from Taj.
 ![](images/lemongrass_taj.jpg)
@@ -401,9 +379,3 @@ Paper packaging, made in Britain: cannot argue with that.
 Or just for kicks why not try coconut sugar?
 
 ![](images/coconut_sugar.jpg)
-
-- [fermentation](fermentation.md)
-- [sport/exercise](sport.md)
-- [animal welfare](welfare.md)
-- [recycling](recycling.md)
-- [cooking](cooking.md)
