@@ -1,7 +1,74 @@
-[About me](about.md)
+# End of year review of my work zero waste pot
+![](images/zero-waste-review-2016-2.jpg)
+
+Actually from May when I first started. But still. Clockwised from top left:
+
+Tin foil from chocolate bars and breakfast roll
+
+Fruit trays
+
+Apple stickers
+
+Coffee lids
+
+Bike light/shirt packaging
+
+Vitamins and medicine In blister packs
+
+Assorted plastic bags (mostly fruit and bread)
+
+Foil wrappers from crisps, seeds and chocolate
+
+Most things I keep in a jar.
+![](images/zero-waste-review-2016-1.jpg)
+
+layout: post
+
+Old school "trouser bands" rather then the cooler snappy things that are made
+from bits of plastic and self-destruct after a couple of months.
+![](images/trouser_bands.jpg)
+
+# The only post on animal welfare and passive aggression (skip if not important to you)
+__"We are evolved to eat meat"__ - It cannot be denied that we derive sustenance
+by eating animals. But does that mean it's good for us? And the planet? We could
+*exist* by eating a mono diet of puffins but would we be healthy? Equally we can
+live perfectly happily on only plants.
+
+__"Drinking cows' milk is unnatural"__ - We can only consume our own species?
+
+__"I only eat animals that have been looked after"__ - But does it matter?
+You're still slaughtering and eating them. Is this for your benefit or the animal?
+
+__"I'm an animal lover [but I'm not a vegan]"__ - How can you love animals and
+eat _any_ of them? You love consuming animals? You love _some_ animals and eat the
+rest?
+
+__"I eat cows but eating dogs is wrong"__ - What's acceptable to eat is, of
+course, completely arbitrary and driven by culture and religion.
+
+Is it size? I don't think so: cows are good (unless you're Hindu), horses bad.
+
+Is it intelligence? No. Pigs are reportedly as intelligent as dogs.
+
+Is it scarcity? Still no. Tigers bad, cod fine.
+
+Is it cuteness? Absolutely not. We eat tonnes of lamb but foxes go untouched
+bar the hunting.
+
+__"I don't eat animals but dairy is OK"__ - Do animals naturally live in a state
+of permanent pregnancy? If it were part of the natural cycle of the animal then
+it could be argued that's OK. But is this true for dairy cows?
+
+__"Animals are there for us to eat"__ - For survival, perhaps. But we grow
+plants to mass produce animals. If they're ours to eat why stop at one level of
+indirection? Why not fell forests to grow soy to raise cattle to rear crocodiles
+and then eat the crocodiles? Perhaps soy-fed cow crocs are tastier than
+grass-fed cattle?
+
+Or we could just eat the soy and live perfectly healthy lives without killing
+anything.
 
 # Ready meals
-
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
 ![](images/readymeal_waitrose.jpg)
 
@@ -92,7 +159,7 @@ By contrast, organic apples from Waitrose. Each sealed in plastic and with a cho
 footprint: Argentina, Chile or New Zealand.
 ![](images/apples2_waitrose.jpg)
 
-layout: post
+# Oats
 
 The first oats I found that didn't come in a plastic bag or a box with a plastic
 panel. They even suggest you compost the packet. Love Pimhill Farm!
@@ -111,16 +178,13 @@ fussy--and we shall--they both feature an unnecessary plastic tab on the top.
 ![](images/oats_mornflake.jpg)
 
 # Toilet roll
-layout: post
-
 Paper from FSC approved sources, plastic in the Waitrose carrier bag recycling.
 ![](images/toiletroll_waitrose1.jpg)
 
 And more recently, toilet roll made from recycled paper.
 ![](images/toiletroll_waitrose2.jpg)
 
-layout: post
-
+# Cheese
 Where can you buy cheese without any packaging? Tricky. La Cave à Fromage in
 Hove is the answer. They're very accommodating and let me use my own box: zero
 packaging with my delicious [Mayfield
@@ -133,8 +197,6 @@ the beautiful goat cheese figuettes but at a fraction of the price.
 ![](images/labneh_taj.jpg)
 
 # Sandwich greens
-layout: post
-
 All major supermarkets pack their greens in plastic so they're out. However, Taj
 do bundles of spinach with no packaging; we just need to juice the stems, compost the
 roots and put the rubber bands to good use.
@@ -145,8 +207,6 @@ Proper spring onions from Taj!
 ![](images/spring_onions.jpg)
 
 # hiSbe Food CIC
-layout: post
-
 I must confess I've only recently started visiting [hisBe](http://hisbe.co.uk/) regularly: when the zero-waste ideal really clicked in my brain. I tend to write articles about products but hisBe have so many things that only _they_ do that it makes more sense to list them on one page.
 
 __Deydrated coconut__
@@ -162,13 +222,10 @@ Waitrose is at £15-20/Kg for a 100g bar of Green and Blacks. And you have to do
 something with the packaging.
 ![](images/chocolate_hisbe.jpg)
 
-
-layout: post
-
+# Newspapers
 In the week newspapers are generally OK but at the weekend the food/environment pullouts must come in a plastic bag for convenience.
 
 # Plastic bags
-layout: post
 
 It goes without saying: no plastic bags. Ever! People argue that they reuse
 them, but how many times must they be reused to justify the decades they will be
@@ -217,11 +274,8 @@ And here are some biodegradable bin bags from Infinity Foods. See
 ![](images/bag_hisbe.jpg)
 
 # Tea, please...
-layout: post
-
 A goodly selection of loose tea and tea-supping accoutrements from Bluebird Tea Co. and 10% discount for bringing your own pot.
 ![](images/tea_bluebird.jpg)
-
 ![](images/tea_bluebird2.jpg)
 
 Heath and Heather offer tea without the unnecessary paper pouches.
@@ -238,23 +292,18 @@ also appear to be thermally sealed suggesting a small quantity of plastic in the
 paper mix.
 
 # Beer and wine
-layout: post
-
 [Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of
 beer--affectionately known as "growlers"--from their shop on East Street. If
 purchasing beer from a supermarket then don't choose those with six-pack rings.
-Ten packs come in a cardboard box with no plastic. Or go to the pub!
+Ten packs come in a cardboard box with no plastic. Or go to the pub. Or brew
+your own!
 
 # Precious Plastic
-layout: post
-
 Small scale plastic processing kits. The future!
 
 http://preciousplastic.com/
 
 # Cleaning products
-layout: post
-
 Lots of options for buying soap without packaging but this is by Faith In
 Nature and smells of rosemary. Bought from hisBe.
 ![](images/soap_faith.jpg)
@@ -266,14 +315,11 @@ Loose fabric conditioner from hisBe:
 ![](images/fabric_conditioner.jpg)
 
 # Refuse collection
-layout: post
-
 It's easy to forget how convenient it is for somebody else to sort your rubbish out for you. 
 Brighton during the bin strike, June 2013. 
 ![](images/bin_strike.jpg)
 
-layout: post
-
+# Honey
 ![](images/honey_brighton.jpg)
 
 Spoilt for choice with honey. This was excellent from Surrey. So good I ate it
@@ -283,8 +329,7 @@ before I managed to take a photo.
 A great selection of Payne's honey from Taj.
 ![](images/honey_paynes.jpg)
 
-layout: post
-
+# Water
 We're fortunate enough to have a good supply in Brighton so it's difficult to
 justify bottled water. But it is of course treated. If you're concerned about
 chlorination for general consumption or home baking then it can be left to stand
@@ -299,51 +344,7 @@ Bottle](https://www.banthebottle.net/bottled-water-facts/). And see how
 [Southern Water](https://www.southernwater.co.uk/water-treatment) treat what
 comes out of our taps.
 
-# The only post on animal welfare and passive aggression (skip if not important to you)
-layout: post
-
-__"We are evolved to eat meat"__ - It cannot be denied that we derive sustenance
-by eating animals. But does that mean it's good for us? And the planet? We could
-*exist* by eating a mono diet of puffins but would we be healthy? Equally we can
-live perfectly happily on only plants.
-
-__"Drinking cows' milk is unnatural"__ - We can only consume our own species?
-
-__"I only eat animals that have been looked after"__ - But does it matter?
-You're still slaughtering and eating them. Is this for your benefit or the animal?
-
-__"I'm an animal lover [but I'm not a vegan]"__ - How can you love animals and
-eat _any_ of them? You love consuming animals? You love _some_ animals and eat the
-rest?
-
-__"I eat cows but eating dogs is wrong"__ - What's acceptable to eat is, of
-course, completely arbitrary and driven by culture and religion.
-
-Is it size? I don't think so: cows are good (unless you're Hindu), horses bad.
-
-Is it intelligence? No. Pigs are reportedly as intelligent as dogs.
-
-Is it scarcity? Still no. Tigers bad, cod fine.
-
-Is it cuteness? Absolutely not. We eat tonnes of lamb but foxes go untouched
-bar the hunting.
-
-__"I don't eat animals but dairy is OK"__ - Do animals naturally live in a state
-of permanent pregnancy? If it were part of the natural cycle of the animal then
-it could be argued that's OK. But is this true for dairy cows?
-
-__"Animals are there for us to eat"__ - For survival, perhaps. But we grow
-plants to mass produce animals. If they're ours to eat why stop at one level of
-indirection? Why not fell forests to grow soy to raise cattle to rear crocodiles
-and then eat the crocodiles? Perhaps soy-fed cow crocs are tastier than
-grass-fed cattle?
-
-Or we could just eat the soy and live perfectly healthy lives without killing
-anything.
-
 # Spectacular low-impact cheese sandwich
-layout: post
-
 ![](images/sandwich2.jpg)
 
 - Bread, Silo
@@ -470,8 +471,6 @@ You can repurpose the bands or make an awesome rubber band ball!
 ![](images/rubberband_ball.jpg)
 
 # Kimchi / sauerkraut
-layout: post
-
 ![](images/kimchi1.jpg)
 
 There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
@@ -496,19 +495,14 @@ week. Is it delicious? If so, eat on homemade bread with aioli.
 The flavour profile evolves over the course of a few weeks. If you manage to not
 eat it all you'll notice the taste drops off after a few weeks. If you really
 like the taste on a certain day move it to the fridge to slow it down.
-
 ![](images/kimchi2.jpg)
 ![](images/kimchi4.jpg)
 
 # ASUS laptop
-layout: post
-
 New laptop. That's _so_ close to using only recyclable packaging. Come on, guys!
 ![](images/asus_laptop.jpg)
 
 # Salt
-layout: post
-
 hisBe have pulled out the stops and are now enabling us to buy salt without also buying bits of plastic to pour it with.
 ![](images/salt_hisbe.jpg)
 
@@ -523,21 +517,18 @@ Not something I'd even considered buying loose. hisBe are great.
 ![](images/bouillon.jpg)
 
 # Socks
-layout: post
-
-Didn't think I would be posting about socks when I started this but hey!
+I didn't think I would be posting about socks when I started this but hey!
 Interesting material and minimal packaged. In fact the only thing that wasn't
 recyclable was the security tag on the back.
 ![](images/socks.jpg)
 
-layout: post
+# Mye Mye
 
 New pan-Asian restaurant Mye Mye. If you pick carefully you can walk out with
 all biodegradable packaging. And it's tasty!
 ![](images/myemye.jpg)
 
-layout: post
-
+# Sugar
 I used to use Billington's for bread making but why does it only come
 wrapped in plastic? Old school Tate and Lyle it is. 
 ![](images/sugar_tate.jpg)
@@ -548,16 +539,7 @@ Paper packaging, made in Britain: cannot argue with that.
 Or just for kicks why not try coconut sugar?
 ![](images/coconut_sugar.jpg)
 
-layout: post
-
-Why does it take a turtle video to make people wake up?
-
-http://thelastplasticstraw.org/
-
-Silo were actually using metal straws last time I visited.
-
-layout: post
-
+# Okrakraut
 
 - 2 large tomatoes
 - 1 long shallot
@@ -568,46 +550,10 @@ Chop the tomatoes coarsely, everything else fine. Add the salt and crush the
 mixture with your hands. Add to a jar making sure everything is submerged. Leave
 for five days or so until it is zingy.
 ![](images/fermented_salsa1.jpg)
-
 ![](images/fermented_salsa2.jpg)
-
-layout: post
 
 The addition of okra makes it quite slippery! So possibly not for everybody. But
 still.
 ![](images/okrachi3.jpg)
-
 ![](images/okrachi1.jpg)
 ![](images/okrachi2.jpg)
-
-# End of year review of my work zero waste pot
-layout: post
-
-![](images/zero-waste-review-2016-2.jpg)
-
-Actually from May when I first started. But still. Clockwised from top left:
-
-Tin foil from chocolate bars and breakfast roll
-
-Fruit trays
-
-Apple stickers
-
-Coffee lids
-
-Bike light/shirt packaging
-
-Vitamins and medicine In blister packs
-
-Assorted plastic bags (mostly fruit and bread)
-
-Foil wrappers from crisps, seeds and chocolate
-
-Most things I keep in a jar.
-![](images/zero-waste-review-2016-1.jpg)
-
-layout: post
-
-Old school "trouser bands" rather then the cooler snappy things that are made
-from bits of plastic and self-destruct after a couple of months.
-![](images/trouser_bands.jpg)
