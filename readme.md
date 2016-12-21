@@ -1,6 +1,5 @@
 
-title: Ready meals
-layout: post
+# Ready meals
 
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
 ![](images/readymeal_waitrose.jpg)
@@ -8,7 +7,7 @@ The veggie ready meal section in Waitrose. Without exception each has a plastic 
 Interestingly the frozen section has plenty of choice in simply packaged
 products.
 
-layout: post
+# Low-impact granola
 
 I've been thinking about this granola for a while and finally found some dried
 fruit that doesn't come in a plastic bag. It's basically 300g of oats and then
@@ -110,7 +109,7 @@ fussy--and we shall--they both feature an unnecessary plastic tab on the top.
 ![](images/oats_flahavans.jpg)
 ![](images/oats_mornflake.jpg)
 
-title: Toilet roll
+# Toilet roll
 layout: post
 
 Paper from FSC approved sources, plastic in the Waitrose carrier bag recycling.
@@ -132,7 +131,7 @@ And here's some Labneh (yoghurt) in a jar from Taj. It pretty much tastes like
 the beautiful goat cheese figuettes but at a fraction of the price. 
 ![](images/labneh_taj.jpg)
 
-title: Sandwich greens
+# Sandwich greens
 layout: post
 
 All major supermarkets pack their greens in plastic so they're out. However, Taj
@@ -144,7 +143,7 @@ roots and put the rubber bands to good use.
 Proper spring onions from Taj!
 ![](images/spring_onions.jpg)
 
-title: hiSbe Food CIC
+# hiSbe Food CIC
 layout: post
 
 I must confess I've only recently started visiting [hisBe](http://hisbe.co.uk/) regularly: when the zero-waste ideal really clicked in my brain. I tend to write articles about products but hisBe have so many things that only _they_ do that it makes more sense to list them on one page.
@@ -167,7 +166,7 @@ layout: post
 
 In the week newspapers are generally OK but at the weekend the food/environment pullouts must come in a plastic bag for convenience.
 
-title: Plastic bags
+# Plastic bags
 layout: post
 
 It goes without saying: no plastic bags. Ever! People argue that they reuse
@@ -216,7 +215,7 @@ And here are some biodegradable bin bags from Infinity Foods. See
 
 ![](images/bag_hisbe.jpg)
 
-title: Tea, please...
+# Tea, please...
 layout: post
 
 A goodly selection of loose tea and tea-supping accoutrements from Bluebird Tea Co. and 10% discount for bringing your own pot.
@@ -237,7 +236,7 @@ As an aside: all three look like they're tied shut. But the Heath and Heather
 also appear to be thermally sealed suggesting a small quantity of plastic in the
 paper mix.
 
-title: Beer and wine
+# Beer and wine
 layout: post
 
 [Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of
@@ -245,14 +244,14 @@ beer--affectionately known as "growlers"--from their shop on East Street. If
 purchasing beer from a supermarket then don't choose those with six-pack rings.
 Ten packs come in a cardboard box with no plastic. Or go to the pub!
 
-title: Precious Plastic
+# Precious Plastic
 layout: post
 
 Small scale plastic processing kits. The future!
 
 http://preciousplastic.com/
 
-title: Cleaning products
+# Cleaning products
 layout: post
 
 Lots of options for buying soap without packaging but this is by Faith In
@@ -265,7 +264,7 @@ And a Vatika bar from Taj wrapped only in cardboard.
 Loose fabric conditioner from hisBe:
 ![](images/fabric_conditioner.jpg)
 
-title: Refuse collection
+# Refuse collection
 layout: post
 
 It's easy to forget how convenient it is for somebody else to sort your rubbish out for you. 
@@ -299,7 +298,7 @@ Bottle](https://www.banthebottle.net/bottled-water-facts/). And see how
 [Southern Water](https://www.southernwater.co.uk/water-treatment) treat what
 comes out of our taps.
 
-title: The only post on animal welfare and passive aggression (skip if not important to you)
+# The only post on animal welfare and passive aggression (skip if not important to you)
 layout: post
 
 __"We are evolved to eat meat"__ - It cannot be denied that we derive sustenance
@@ -341,7 +340,7 @@ grass-fed cattle?
 Or we could just eat the soy and live perfectly healthy lives without killing
 anything.
 
-title: Spectacular low-impact cheese sandwich
+# Spectacular low-impact cheese sandwich
 layout: post
 
 ![](images/sandwich2.jpg)
@@ -361,7 +360,7 @@ layout: post
 ![](images/sandwich1.jpg)
 ![](images/spinach_roots.jpg)
 
-title: Glass jars
+# Glass jars
 layout: post
 
 Love a nice glass jar. And if you end up with too many somewhere like
@@ -370,7 +369,7 @@ will probably take them off your hands. Make sure to avoid those with plastic
 seals. 
 ![](images/glass_jars.jpg)
 
-title: I remember when everything around here was sealed in small claustrophobic boxes
+# I remember when everything around here was sealed in small claustrophobic boxes
 layout: post
 
 Before long all you see is plastic. Equal-portioned high-carbon footprint
@@ -386,7 +385,7 @@ Loose apricots from Taj.
 ![](images/apricots_taj.jpg)
 
 
-title: Trash is for tossers
+# Trash is for tossers
 layout: post
 
 Great dinner and chat with zero waste luminaries Douglas McMaster (Silo
@@ -397,7 +396,7 @@ Brighton), Tom Griffiths (Flank) and Lauren Singer.
 - http://www.silobrighton.com/
 - http://www.flankbrighton.com/
 
-title: Which types of plastic can be recycled?
+# Which types of plastic can be recycled?
 layout: post
 
 From [Brighton and Hove recycling
@@ -435,7 +434,7 @@ And come contradictory advice from Twitter:
 >  leave the ring attached to the bottle. You can cut them off if you really
 >  want to remove them. Plastic bottles can have them left on. Ryan.
 
-title: Soya milk and Tetra Pack recycling
+# Soya milk and Tetra Pack recycling
 layout: post
 
 Couldn't find the Tetra Pack recycling point on the [council website](http://www.brighton-hove.gov.uk/content/recycling-bins-map) but it's [here](https://www.google.co.uk/maps/@50.8285584,-0.1377455,3a,15y,296.01h,78.37t/data=!3m6!1e1!3m4!1swEfHWdBDEH__9ClosMu0Vg!2e0!7i13312!8i6656?hl=en). Magpie might collect them too.
@@ -447,13 +446,13 @@ Alpro and granaVita have slightly fewer components: some of them have an extra p
 And Bonsoy has no plastic bits... yey! (But it is twice the price.)
 ![](images/bonsoy.jpg)
 
-title: Loose peppers
+# Loose peppers
 layout: post
 
 In Waitrose you can buy two loose peppers. Or two peppers in a plastic bag. 
 ![](images/peppers_waitrose.jpg)
 
-title: Bike snacks
+# Bike snacks
 layout: post
 
 Pop some of these in your jersey. Loose apricots from Taj.
@@ -469,7 +468,7 @@ Nice bit of lemongrass from Taj.
 You can repurpose the bands or make an awesome rubber band ball!
 ![](images/rubberband_ball.jpg)
 
-title: Kimchi / sauerkraut
+# Kimchi / sauerkraut
 layout: post
 
 ![](images/kimchi1.jpg)
@@ -500,13 +499,13 @@ like the taste on a certain day move it to the fridge to slow it down.
 ![](images/kimchi2.jpg)
 ![](images/kimchi4.jpg)
 
-title: ASUS laptop
+# ASUS laptop
 layout: post
 
 New laptop. That's _so_ close to using only recyclable packaging. Come on, guys!
 ![](images/asus_laptop.jpg)
 
-title: Salt
+# Salt
 layout: post
 
 hisBe have pulled out the stops and are now enabling us to buy salt without also buying bits of plastic to pour it with.
@@ -516,13 +515,13 @@ Alternatively, Tidman's might just save the day.
 
 http://www.maldonsalt.co.uk/Products-Tidmans-Salt.html
 
-title: Vegetable bouillon
+# Vegetable bouillon
 layout: post
 
 Not something I'd even considered buying loose. hisBe are great.
 ![](images/bouillon.jpg)
 
-title: Socks
+# Socks
 layout: post
 
 Didn't think I would be posting about socks when I started this but hey!
@@ -580,7 +579,7 @@ still.
 ![](images/okrachi1.jpg)
 ![](images/okrachi2.jpg)
 
-title: End of year review of my work zero waste pot
+# End of year review of my work zero waste pot
 layout: post
 
 ![](images/zero-waste-review-2016-2.jpg)
