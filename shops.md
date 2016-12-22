@@ -8,4 +8,4 @@ Long-established vegetarian supermarket.
 
 ## Silo
 Zero-waste restaurant/cafe/coffee. Not vegetarian but increasingly
-plant-focused.
+plant-focused. compost
