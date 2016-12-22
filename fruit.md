@@ -1,4 +1,6 @@
-# Fresh
+[back](readme.md)
+
+# Fresh fruit
 Why would you buy a net of tiny lemons from a supermarket when you could have
 these beauties?
 
@@ -22,7 +24,7 @@ choice of carbon footprint: Argentina, Chile or New Zealand.
 
 ![](images/apples2_waitrose.jpg)
 
-# Dried
+# Dried fruit
 Dried goji berries from hisBe.
 
 ![](images/goji_hisbe.jpg)
