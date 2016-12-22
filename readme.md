@@ -8,6 +8,7 @@
 - [Cleaning](cleaning.md)
 - [Shops](shops.md)
 - [Dairy](dairy.md)
+- [Veg](veg.md)
 
 # End of year review of my work zero waste pot
 Pledge to keep everything that doesn't biodegrade nor is recyclable in your
@@ -57,18 +58,6 @@ fussy&mdash;and we shall&mdash;they both feature an unnecessary plastic tab on t
 
 ![](images/oats_flahavans.jpg)
 ![](images/oats_mornflake.jpg)
-
-# Sandwich greens
-All major supermarkets pack their greens in plastic so they're out. However, Taj
-do bundles of spinach with no packaging; we just need to juice the stems, compost the
-roots and put the rubber bands to good use.
-
-![](images/spinach_taj.jpg)
-![](images/spinach_taj2.jpg)
-
-Proper spring onions from Taj!
-
-![](images/spring_onions.jpg)
 
 # Newspapers
 In the week newspapers are generally OK but at the weekend the food/environment pullouts must come in a plastic bag for convenience.
@@ -142,19 +131,6 @@ Brighton), Tom Griffiths (Flank) and Lauren Singer.
 - http://www.trashisfortossers.com/
 - http://www.silobrighton.com/
 - http://www.flankbrighton.com/
-
-# Loose peppers
-In Waitrose you can buy two loose peppers. Or two peppers in a plastic bag. 
-
-![](images/peppers_waitrose.jpg)
-
-# Lemongrass
-Nice bit of lemongrass from Taj.
-![](images/lemongrass_taj.jpg)
-
-You can repurpose the bands or make an awesome rubber band ball!
-
-![](images/rubberband_ball.jpg)
 
 # ASUS laptop
 New laptop. That's _so_ close to using only recyclable packaging. Come on, guys!
