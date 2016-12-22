@@ -4,6 +4,7 @@
 - [recycling](recycling.md)
 - [cooking](cooking.md)
 - [baking](baking.md)
+- [fruit](fruit.md)
 
 # End of year review of my work zero waste pot
 Pledge to keep everything that doesn't biodegrade nor is recyclable in your
@@ -32,31 +33,6 @@ The veggie ready meal section in Waitrose. Without exception each has a plastic 
 
 Interestingly the frozen section has plenty of choice in simply packaged
 products.
-
-# Fruit
-
-Why would you buy a net of tiny lemons from a supermarket when you could have
-these beauties?
-
-![](images/lemon_taj.jpg)
-
-And finally some loose British apples from Taj!
-
-![](images/british_apples.jpg)
-
-Loose apples from Waitrose.
-
-![](images/apples_waitrose.jpg)
-
-And loose French Pink Ladies from Sainsbury's Local. Expensive at £4+ per
-kilo but still.
-
-![](images/apple_sainsburys.jpg)
-
-By contrast, organic apples from Waitrose. Each sealed in plastic and with a
-choice of carbon footprint: Argentina, Chile or New Zealand.
-
-![](images/apples2_waitrose.jpg)
 
 # Oats
 The first oats I found that didn't come in a plastic bag or a box with a plastic
@@ -301,15 +277,6 @@ Before long all you see is plastic. Equal-portioned high-carbon footprint
 produce condemned to a petrochemical tomb. As nature intended.
 
 ![](images/plastic_waitrose.jpg)
-
-# Dried fruit
-Dried goji berries from hisBe.
-
-![](images/goji_hisbe.jpg)
-
-Loose apricots from Taj.
-
-![](images/apricots_taj.jpg)
 
 # Trash is for tossers
 Great dinner and chat with zero waste luminaries Douglas McMaster (Silo
