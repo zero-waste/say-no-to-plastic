@@ -29,5 +29,3 @@ Clockwise from top left:
 - [Tea](tea.md)
 - [Condiments](condiments.md)
 - [Misc](misc.md)
-
-[< Back](readme.md)
