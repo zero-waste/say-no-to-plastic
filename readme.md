@@ -17,9 +17,7 @@
 Pledge to keep everything that doesn't biodegrade nor is recyclable in your
 area or office. This is my last nine month's worth.
 
-![](images/zero-waste-review-2016-1.jpg)
-
-The jar emptied out, clockwised from top left:
+Clockwise from top left:
 
 - Tin foil from chocolate bars and breakfast roll
 - Fruit trays
@@ -29,6 +27,5 @@ The jar emptied out, clockwised from top left:
 - Vitamins and medicine In blister packs
 - Assorted plastic bags (mostly fruit and bread)
 - Foil wrappers from crisps, seeds and chocolate
-- Most things I keep in a jar.
 
 ![](images/zero-waste-review-2016-2.jpg)
