@@ -15,10 +15,8 @@ Edit: but they're not very good! Will try them again.
 ![](images/trouser_bands.jpg)
 
 # Snacks
-Pop some of these in your jersey. Loose apricots from Taj.
+Pop some loose apricots from Taj in your jersey.
 
 ![](images/apricots_taj.jpg)
-
-Note: paper bag is from hisBe, they only have plastic bags in Taj.
 
 [< Back](readme.md)

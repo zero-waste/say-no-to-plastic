@@ -49,5 +49,7 @@ Loose apricots from Taj.
 
 ![](images/apricots_taj.jpg)
 
+Taj hack: they don't offer paper bags apart from for the takeaway curries and the
+baguettes. So go and use them!
 
 [< Back](readme.md)
