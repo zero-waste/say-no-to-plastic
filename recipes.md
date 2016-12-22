@@ -1,6 +1,6 @@
 [< Back](readme.md)
 
-# Low-impact granola
+# Granola
 I've been thinking about this granola for a while and finally found some dried
 fruit that doesn't come in a plastic bag. It's basically 300g of oats and then
 60g of anything else you have to hand.
@@ -44,7 +44,7 @@ Starting with 300g of oats makes one baking tray's worth. I tend to do two at
 once, the lower one stays in for the first eight minutes, stir and then I bring
 it to the top for a further four minutes.
 
-# Spectacular low-impact cheese sandwich
+# Epic cheese sandwich
 ![](images/sandwich2.jpg)
 
 - Bread, Silo
@@ -61,6 +61,5 @@ it to the top for a further four minutes.
 
 ![](images/sandwich1.jpg)
 ![](images/spinach_roots.jpg)
-
 
 [< Back](readme.md)
