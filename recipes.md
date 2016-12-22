@@ -44,3 +44,21 @@ Starting with 300g of oats makes one baking tray's worth. I tend to do two at
 once, the lower one stays in for the first eight minutes, stir and then I bring
 it to the top for a further four minutes.
 
+# Spectacular low-impact cheese sandwich
+![](images/sandwich2.jpg)
+
+- Bread, Silo
+- Smoked cheddar, La Cave à Fromage
+- Spinach, Taj
+- Tomatoes, The Open Market
+- Harissa and mayonnaise in glass jars (no plastic seal), Waitrose
+
+## Waste
+- Two paper bags to recycle/reuse 
+- Two rubber bands to repurpose
+- Stalks in the Nutribullet
+- Roots and vines in the compost
+
+![](images/sandwich1.jpg)
+![](images/spinach_roots.jpg)
+

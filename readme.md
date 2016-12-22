@@ -2,7 +2,7 @@
 - [Sport](sport.md)
 - [Welfare](welfare.md)
 - [Recycling](recycling.md)
-- [Cooking](cooking.md)
+- [Recipes](recipes.md)
 - [Baking](baking.md)
 - [Fruit](fruit.md)
 - [Cleaning](cleaning.md)
@@ -126,25 +126,6 @@ For some bottle facts see [Ban the
 Bottle](https://www.banthebottle.net/bottled-water-facts/). And see how
 [Southern Water](https://www.southernwater.co.uk/water-treatment) treat what
 comes out of our taps.
-
-# Spectacular low-impact cheese sandwich
-
-![](images/sandwich2.jpg)
-
-- Bread, Silo
-- Smoked cheddar, La Cave à Fromage
-- Spinach, Taj
-- Tomatoes, The Open Market
-- Harissa and mayonnaise in glass jars (no plastic seal), Waitrose
-
-## Waste
-- Two paper bags to recycle/reuse 
-- Two rubber bands to repurpose
-- Stalks in the Nutribullet
-- Roots and vines in the compost
-
-![](images/sandwich1.jpg)
-![](images/spinach_roots.jpg)
 
 # I remember when everything around here was sealed in small claustrophobic boxes
 Before long all you see is plastic. Equal-portioned high-carbon footprint
