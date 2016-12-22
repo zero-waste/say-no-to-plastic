@@ -50,3 +50,11 @@ still.
 ![](images/okrachi3.jpg)
 ![](images/okrachi1.jpg)
 ![](images/okrachi2.jpg)
+
+# Beer and wine
+[Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of
+beer--affectionately known as "growlers"--from their shop on East Street. If
+purchasing beer from a supermarket then don't choose those with six-pack rings.
+Ten packs come in a cardboard box with no plastic. Or go to the pub. Or brew
+your own!
+

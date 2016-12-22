@@ -95,13 +95,6 @@ As an aside: all three look like they're tied shut. But the Heath and Heather
 also appear to be thermally sealed suggesting a small quantity of plastic in the
 paper mix.
 
-# Beer and wine
-[Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of
-beer--affectionately known as "growlers"--from their shop on East Street. If
-purchasing beer from a supermarket then don't choose those with six-pack rings.
-Ten packs come in a cardboard box with no plastic. Or go to the pub. Or brew
-your own!
-
 # Precious Plastic
 Small scale plastic processing kits. The future!
 
