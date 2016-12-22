@@ -1,4 +1,4 @@
-# End of year review of my work zero waste pot
+# End of year review
 Pledge to keep everything that doesn't biodegrade nor is recyclable in your
 area or office. This is my last nine month's worth.
 
