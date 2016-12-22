@@ -44,3 +44,9 @@ Alpro and granaVita have slightly fewer components: some of them have an extra p
 And Bonsoy has no plastic bits... yey! (But it is twice the price.)
 
 ![](images/bonsoy.jpg)
+
+# Refuse collection
+It's easy to forget how convenient it is for somebody else to sort your rubbish
+out for you. Brighton during the bin strike, June 2013. 
+
+![](images/bin_strike.jpg)

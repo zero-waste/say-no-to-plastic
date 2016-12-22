@@ -1,10 +1,13 @@
-- [fermentation](fermentation.md)
-- [sport](sport.md)
-- [welfare](welfare.md)
-- [recycling](recycling.md)
-- [cooking](cooking.md)
-- [baking](baking.md)
-- [fruit](fruit.md)
+- [Fermentation](fermentation.md)
+- [Sport](sport.md)
+- [Welfare](welfare.md)
+- [Recycling](recycling.md)
+- [Cooking](cooking.md)
+- [Baking](baking.md)
+- [Fruit](fruit.md)
+- [Cleaning](cleaning.md)
+- [Shops](shops.md)
+- [Dairy](dairy.md)
 
 # End of year review of my work zero waste pot
 Pledge to keep everything that doesn't biodegrade nor is recyclable in your
@@ -55,29 +58,6 @@ fussy&mdash;and we shall&mdash;they both feature an unnecessary plastic tab on t
 ![](images/oats_flahavans.jpg)
 ![](images/oats_mornflake.jpg)
 
-# Toilet roll
-Paper from FSC approved sources, plastic in the Waitrose carrier bag recycling.
-
-![](images/toiletroll_waitrose1.jpg)
-
-And more recently, toilet roll made from recycled paper.
-
-![](images/toiletroll_waitrose2.jpg)
-
-# Cheese
-Where can you buy cheese without any packaging? Tricky. La Cave à Fromage in
-Hove is the answer. They're very accommodating and let me use my own box: zero
-packaging with my delicious [Mayfield
-Swiss](https://www.cookipedia.co.uk/recipes_wiki/Mayfield_Swiss_cheese), a
-vegetarian mountain cheese made in Sussex. 
-
-![](images/cheese_lacave.jpg)
-
-And here's some Labneh (yoghurt) in a jar from Taj. It pretty much tastes like
-the beautiful goat cheese figuettes but at a fraction of the price. 
-
-![](images/labneh_taj.jpg)
-
 # Sandwich greens
 All major supermarkets pack their greens in plastic so they're out. However, Taj
 do bundles of spinach with no packaging; we just need to juice the stems, compost the
@@ -89,28 +69,6 @@ roots and put the rubber bands to good use.
 Proper spring onions from Taj!
 
 ![](images/spring_onions.jpg)
-
-# hiSbe Food CIC
-I must confess I've only recently started visiting [hisBe](http://hisbe.co.uk/)
-regularly: when the zero-waste ideal really clicked in my brain. I tend to write
-articles about products but hisBe have so many things that only _they_ do that
-it makes more sense to list them on one page.
-
-__Deydrated coconut__
-
-![](images/coconut_hisbe.jpg)
-
-__Cacao nibs__
-
-![](images/nibs_hisbe.jpg)
-
-__Chocolate__
-
-Loose plain, milk and white chocolate buttons. They're only £10/Kg too, whereas
-Waitrose is at £15-20/Kg for a 100g bar of Green and Blacks. And you have to do
-something with the packaging.
-
-![](images/chocolate_hisbe.jpg)
 
 # Newspapers
 In the week newspapers are generally OK but at the weekend the food/environment pullouts must come in a plastic bag for convenience.
@@ -198,26 +156,6 @@ Small scale plastic processing kits. The future!
 
 http://preciousplastic.com/
 
-# Cleaning products
-Lots of options for buying soap without packaging but this is by Faith In
-Nature and smells of rosemary. Bought from hisBe.
-
-![](images/soap_faith.jpg)
-
-And a Vatika bar from Taj wrapped only in cardboard.
-
-![](images/soap_vatika.jpg)
-
-Loose fabric conditioner from hisBe:
-
-![](images/fabric_conditioner.jpg)
-
-# Refuse collection
-It's easy to forget how convenient it is for somebody else to sort your rubbish
-out for you. Brighton during the bin strike, June 2013. 
-
-![](images/bin_strike.jpg)
-
 # Honey
 ![](images/honey_brighton.jpg)
 
@@ -263,14 +201,6 @@ comes out of our taps.
 
 ![](images/sandwich1.jpg)
 ![](images/spinach_roots.jpg)
-
-# Glass jars
-Love a nice glass jar. And if you end up with too many somewhere like
-[Silo](http://www.silobrighton.com) or [Flank](http://www.flankbrighton.com/)
-will probably take them off your hands. Make sure to avoid those with plastic
-seals. 
-
-![](images/glass_jars.jpg)
 
 # I remember when everything around here was sealed in small claustrophobic boxes
 Before long all you see is plastic. Equal-portioned high-carbon footprint
@@ -319,13 +249,6 @@ http://www.maldonsalt.co.uk/Products-Tidmans-Salt.html
 Not something I'd even considered buying loose. hisBe are great.
 
 ![](images/bouillon.jpg)
-
-# Socks
-I didn't think I would be posting about socks when I started this but hey!
-Interesting material and minimal packaged. In fact the only thing that wasn't
-recyclable was the security tag on the back.
-
-![](images/socks.jpg)
 
 # Mye Mye
 New pan-Asian restaurant Mye Mye. If you pick carefully you can walk out with
