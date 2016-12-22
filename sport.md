@@ -1,3 +1,5 @@
+[< Back](readme.md)
+
 # Energy gels
 Gels are the scourge of the countryside. I find it baffling that people just
 throw the clearly non-biodegradable foil away. Instead of these I fill my water

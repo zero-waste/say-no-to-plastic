@@ -1,3 +1,5 @@
+[< Back](readme.md)
+
 # Low-impact granola
 I've been thinking about this granola for a while and finally found some dried
 fruit that doesn't come in a plastic bag. It's basically 300g of oats and then

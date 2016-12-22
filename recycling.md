@@ -1,3 +1,5 @@
+[< Back](readme.md)
+
 # Which types of plastic can be recycled?
 From [Brighton and Hove recycling
 FAQ](http://www.brighton-hove.gov.uk/content/environment/recycling-rubbish-and-street-cleaning/recycling-faqs)
