@@ -1,18 +1,3 @@
-- [Fermentation](fermentation.md)
-- [Sport](sport.md)
-- [Welfare](welfare.md)
-- [Recycling](recycling.md)
-- [Recipes](recipes.md)
-- [Baking](baking.md)
-- [Fruit](fruit.md)
-- [Cleaning](cleaning.md)
-- [Shops](shops.md)
-- [Dairy](dairy.md)
-- [Veg](veg.md)
-- [Tea](tea.md)
-- [Condiments](condiments.md)
-- [Misc](misc.md)
-
 # End of year review of my work zero waste pot
 Pledge to keep everything that doesn't biodegrade nor is recyclable in your
 area or office. This is my last nine month's worth.
@@ -29,3 +14,18 @@ Clockwise from top left:
 - Foil wrappers from crisps, seeds and chocolate
 
 ![](images/zero-waste-review-2016-2.jpg)
+
+- [Fermentation](fermentation.md)
+- [Sport](sport.md)
+- [Welfare](welfare.md)
+- [Recycling](recycling.md)
+- [Recipes](recipes.md)
+- [Baking](baking.md)
+- [Fruit](fruit.md)
+- [Cleaning](cleaning.md)
+- [Shops](shops.md)
+- [Dairy](dairy.md)
+- [Veg](veg.md)
+- [Tea](tea.md)
+- [Condiments](condiments.md)
+- [Misc](misc.md)
