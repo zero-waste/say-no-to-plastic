@@ -23,7 +23,7 @@ __From Adam the apiarist - Surrey Honey (glass jar):__
 
 __From Taj (glass jar)__
 
-- 60g Coconut oil
+- 60g coconut oil
 
 Combine everything bar the berries (lest they burn), spread on a tray and cook
 at 200C for 8 minutes until brown (give it a stir around halfway through). I
