@@ -23,12 +23,4 @@ And more recently, toilet roll made from recycled paper.
 
 ![](images/toiletroll_waitrose2.jpg)
 
-# Socks
-I didn't think I would be posting about socks when I started this but hey!
-Interesting material and minimal packaged. In fact the only thing that wasn't
-recyclable was the security tag on the back.
-
-![](images/socks.jpg)
-
-
 [< Back](readme.md)
