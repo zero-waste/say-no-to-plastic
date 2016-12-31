@@ -1,4 +1,6 @@
-Changes we've made since meeting Silo/Trash is for Tossers/Alchemy Flow:
+Changes we've made since meeting [Silo](http://www.silobrighton.com/)/[Trash is for
+Tossers](http://www.trashisfortossers.com/)/[Alchemy
+Flow](https://www.facebook.com/AlchemyandFlow/):
 
 # Homemade food/drink
 - Bread
