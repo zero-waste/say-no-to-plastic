@@ -1,13 +1,15 @@
-# Things that have changed since we met Silo/Trash
+Changes we've made since meeting Silo/Trash is for Tossers/Alchemy Flow:
 
-- Started making bread again
+# Homemade food/drink
+- Bread
 - Kimchi/sauerkraut
 - Milk kefir
 - Soft cheese
 - Homebrew beer and wine
-- Glasses by bottle cutting
-- Buying loose where possible
-- Avoiding products with non-biodegradable packaging
+
+# Packaging
+- Upcycled glasses by bottle cutting ([Kinkajou](http://www.bottlecutting.com/))
+- Buying loose where possible (hisBe)
+- Refusing products with non-biodegradable packaging
 - Stopped buying energy gels/sports supplements
-- Keep a zero waste pot at work - save all the things that can't be disposed of
-  sustainably
+- Kept a zero waste pot at work
