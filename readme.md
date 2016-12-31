@@ -1,5 +1,5 @@
 # End of year review
-Pledge to keep everything that doesn't biodegrade nor is recyclable in your
+Pledge to keep everything that is neither biodegradable nor recyclable in your
 area or office. This is my last nine month's worth.
 
 Clockwise from top left:
