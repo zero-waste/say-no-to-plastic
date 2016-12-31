@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Granola
 I've been thinking about this granola for a while and finally found some dried
@@ -62,4 +62,4 @@ it to the top for a further four minutes.
 ![](images/sandwich1.jpg)
 ![](images/spinach_roots.jpg)
 
-[< Back](readme.md)
+[< Top](readme.md)

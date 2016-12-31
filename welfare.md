@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Animal welfare and passive aggression (skip if not important to you)
 __"We are evolved to eat meat"__ - It cannot be denied that we derive sustenance
@@ -41,4 +41,4 @@ Or we could just eat the soy and live perfectly healthy lives without killing
 anything.
 
 
-[< Back](readme.md)
+[< Top](readme.md)

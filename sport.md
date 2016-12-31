@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Energy gels
 Gels are the scourge of the countryside. I find it baffling that people just
@@ -19,4 +19,4 @@ Pop some loose apricots from Taj in your jersey.
 
 ![](images/apricots_taj.jpg)
 
-[< Back](readme.md)
+[< Top](readme.md)

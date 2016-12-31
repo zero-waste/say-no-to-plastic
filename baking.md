@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Bread
 Shop bought bread can really only come from a proper baker. In this case it's
@@ -23,4 +23,4 @@ Deft lame work from Silo.
 ![](images/bread_silo.jpg)
 
 
-[< Back](readme.md)
+[< Top](readme.md)

@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Which types of plastic can be recycled?
 From [Brighton and Hove recycling
@@ -106,4 +106,4 @@ And here are some biodegradable bin bags from Infinity Foods. See
 ![](images/how-long.jpg)
 
 
-[< Back](readme.md)
+[< Top](readme.md)

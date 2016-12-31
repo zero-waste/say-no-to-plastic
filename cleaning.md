@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Cleaning products
 Lots of options for buying soap without packaging but this is by Faith In
@@ -23,4 +23,4 @@ And more recently, toilet roll made from recycled paper.
 
 ![](images/toiletroll_waitrose2.jpg)
 
-[< Back](readme.md)
+[< Top](readme.md)

@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Fresh fruit
 Why would you buy a net of tiny lemons from a supermarket when you could have
@@ -52,4 +52,4 @@ Loose apricots from Taj.
 Taj hack: they don't offer paper bags apart from for the takeaway curries and the
 baguettes. So go and use them!
 
-[< Back](readme.md)
+[< Top](readme.md)

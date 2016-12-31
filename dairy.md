@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Cheese
 Where can you buy cheese without any packaging? Tricky. La Cave à Fromage in
@@ -15,4 +15,4 @@ the beautiful goat cheese figuettes but at a fraction of the price.
 ![](images/labneh_taj.jpg)
 
 
-[< Back](readme.md)
+[< Top](readme.md)

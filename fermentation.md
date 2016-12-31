@@ -1,4 +1,4 @@
-[< Back](readme.md)
+[< Top](readme.md)
 
 # Basic principles of fermented cabbage
 ![](images/kimchi1.jpg)
@@ -63,4 +63,4 @@ Use an abrasive like old rice and a few drops of washing up liquid.
 
 See mowerdog's [https://www.youtube.com/watch?v=HzPQDWTMAVQ](video).
 
-[< Back](readme.md)
+[< Top](readme.md)

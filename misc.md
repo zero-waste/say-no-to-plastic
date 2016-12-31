@@ -50,4 +50,4 @@ New laptop. That's _so_ close to using only recyclable packaging. Come on, guys!
 
 ![](images/asus_laptop.jpg)
 
-[< Back](readme.md)
+[< Top](readme.md)
