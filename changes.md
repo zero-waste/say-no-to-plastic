@@ -13,7 +13,7 @@ Flow](https://www.facebook.com/AlchemyandFlow/):
 
 # Packaging
 - Upcycled glasses by bottle cutting ([Kinkajou](http://www.bottlecutting.com/))
-- Buying loose where possible (hisBe)
+- Buying loose where possible ([hisBe](http://hisbe.co.uk/))
 - Refusing products with non-recyclable packaging
 - Stopped buying energy gels/sports supplements
 - Kept a zero waste pot at work
