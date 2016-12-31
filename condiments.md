@@ -1,3 +1,5 @@
+[< Top](readme.md)
+
 # Sugar
 I used to use Billington's for bread making but why does it only come
 wrapped in plastic? Old school Tate and Lyle it is. 
@@ -58,6 +60,5 @@ fussy&mdash;and we shall&mdash;they both feature an unnecessary plastic tab on t
 
 ![](images/oats_flahavans.jpg)
 ![](images/oats_mornflake.jpg)
-
 
 [< Top](readme.md)
