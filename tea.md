@@ -18,6 +18,10 @@ As do Yogi. But be careful as I have seen some in plastic wrap!
 
 ![](images/tea_yogi.jpg)
 
+And Clipper.
+
+![](images/tea_clipper.jpg)
+
 As an aside: all three look like they're tied shut. But the Heath and Heather
 also appear to be thermally sealed suggesting a small quantity of plastic in the
 paper mix.
