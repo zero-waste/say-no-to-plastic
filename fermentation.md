@@ -29,8 +29,7 @@ like the taste on a certain day move it to the fridge to slow it down.
 ![](images/kimchi2.jpg)
 ![](images/kimchi4.jpg)
 
-# Okraut
-A experiment to see how okra behaves.
+# Fermented salsa
 
 - 2 large tomatoes
 - 1 long shallot
@@ -44,7 +43,9 @@ for five days or so until it is zingy.
 ![](images/fermented_salsa1.jpg)
 ![](images/fermented_salsa2.jpg)
 
-The addition of okra makes it quite slippery! So possibly not for everybody. But
+# Okraut
+
+A experiment to see how okra behaves. The addition of okra makes it quite slippery! So possibly not for everybody. But
 still.
 
 ![](images/okrachi3.jpg)
