@@ -48,9 +48,9 @@ for five days or so until it is zingy.
 A experiment to see how okra behaves. The addition of okra makes it quite slippery! So possibly not for everybody. But
 still.
 
-![](images/okrachi3.jpg)
 ![](images/okrachi1.jpg)
 ![](images/okrachi2.jpg)
+![](images/okrachi3.jpg)
 
 # Beer and wine
 [Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of
