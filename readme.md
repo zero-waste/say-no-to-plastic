@@ -1,6 +1,6 @@
 # End of year review
 Pledge to keep everything that is neither biodegradable nor recyclable in your
-area or office. Below is my last nine month's worth. Obviously there's still
+area or office. Below is my last nine months' worth. Obviously there's still
 work to do but keeping everything is an excellent reminder.
 
 Clockwise from top left:
