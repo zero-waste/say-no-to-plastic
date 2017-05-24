@@ -62,6 +62,6 @@ your own!
 # Bottle cleaning
 Use an abrasive like old rice and a few drops of washing up liquid.
 
-See mowerdog's [https://www.youtube.com/watch?v=HzPQDWTMAVQ](video).
+See mowerdog's [video](https://www.youtube.com/watch?v=HzPQDWTMAVQ).
 
 [< Top](readme.md)
