@@ -1,5 +1,7 @@
 [< Top](readme.md)
 
+All these recipes use a percentage of salt. If 1.6% salt is required, 1000g of veg would need 16g of salt. But you should always taste the raw mix anyway. 1.6% is the minimum I've gotten away with and experienced no spoiling. But this is in my climate (southern UK) and my house.
+
 # Basic principles of fermented cabbage
 ![](images/kimchi1.jpg)
 
@@ -16,8 +18,7 @@ flowing (if it's a particularly tough cabbage you might need to use a pestle).
 Leave for ten minutes and repeat until there's a good amount of liquid in the
 bottom of the bowl.
 
-Pack into a glass jar, leaving about 20% expansion space and close. This jar has
-a nice silicone lid to let the gas out.
+Pack into a glass jar leaving about 20% expansion space and close the lid.
 
 Keep out of the sunlight, it should start to bubble by day two. Taste it after a
 week. Is it delicious? If so, eat on homemade bread with aioli. 
@@ -34,7 +35,7 @@ like the taste on a certain day move it to the fridge to slow it down.
 - 2 large tomatoes
 - 1 long shallot
 - 1/2 red chilli
-- 2% salt (by weight)
+- 2% salt
 
 Chop the tomatoes coarsely, everything else fine. Add the salt and crush the
 mixture with your hands. Add to a jar making sure everything is submerged. Leave
