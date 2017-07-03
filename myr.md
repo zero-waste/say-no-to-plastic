@@ -7,17 +7,21 @@ area or office. A nice idea is to fill a jar and see how long it takes to fill
 it. It makes it all the more horrifying when you have to thrown it away in bulk,
 knowing that it's destined for the landfill.
 
+Conveniently processed food usually comes in plastic so it makes it quite easy
+to avoid.
+
 ## 2018
 
 Packaging from the following:
-- Kargs crackers
+- Karg's crackers
 - Roasted fava beans
-- Crackers
+- Cracker box
 - Crisps
 - Blister pack
 - Apple stickers
 - Coffee lids
 - Quorn sausage roll
+- Chocolate bar foil
 
 ![](images/zero-waste-review-2017-1.jpg)
 
