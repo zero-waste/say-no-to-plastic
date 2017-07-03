@@ -7,8 +7,9 @@ area or office. A nice idea is to fill a jar and see how long it takes to fill
 it. It makes it all the more horrifying when you have to thrown it away in bulk,
 knowing that it's destined for the landfill.
 
-Conveniently processed food usually comes in plastic so it makes it quite easy
-to avoid.
+It also makes you consider how much you want that bag of crisps knowing that the
+bag will be hanging around for decades. Conveniently, processed food usually
+comes in plastic so it makes it quite easy to avoid.
 
 ## 2018
 
