@@ -32,14 +32,25 @@ like the taste on a certain day move it to the fridge to slow it down.
 
 # Fermented salsa
 
-- 2 large tomatoes
-- 1 long shallot
-- 1/2 red chilli
-- 2% salt
+- Two large tomatoes, coarsely chopped
+- Half as much onion as toms, 5mm dice
+- Two garlic cloves, finely chopped
+- A few radishes, finely sliced
+- One red chilli, finely sliced
 
-Chop the tomatoes coarsely, everything else fine. Add the salt and crush the
-mixture with your hands. Add to a jar making sure everything is submerged. Leave
-for five days or so until it is zingy.
+The denser the vegetable the finer it needs cutting.
+
+Put it all into a mixing bowl on a scale, add 1.6% of the weight of the veg in
+salt. Mush it between your fingers until mixed and quite liquid. Add to a jar,
+almost to the brim, pop the lid on and leave in a dark cupboard for up to a
+week. You can put it in a fridge if you like but the acidity should stop
+anything untoward occurring.
+
+Put everything in a mixing bowl on a scale, add 1.6% of the weight of the veg in
+salt. Mush it between your fingers until mixed and quite liquid. Taste and then
+dd to a jar, almost to the brim, pop the lid on and leave in a dark cupboard for
+up to a week. You can put it in a fridge if you like but the acidity should stop
+anything untoward occurring.
 
 ![](images/fermented_salsa1.jpg)
 ![](images/fermented_salsa2.jpg)

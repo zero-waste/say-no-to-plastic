@@ -45,6 +45,7 @@ once, the lower one stays in for the first eight minutes, stir and then I bring
 it to the top for a further four minutes.
 
 # Epic cheese sandwich
+
 ![](images/sandwich2.jpg)
 
 - Bread, Silo
