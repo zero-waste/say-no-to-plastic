@@ -18,4 +18,8 @@ Flow](https://www.facebook.com/AlchemyandFlow/):
 - Stopped buying energy gels/sports supplements
 - Kept a zero waste pot at work
 
+# Foraging
+- Interest in mushrooms (too soon to pick)
+- Gathering easy plants (herbs, wild garlic)
+
 [< Top](readme.md)

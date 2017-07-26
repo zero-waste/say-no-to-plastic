@@ -14,3 +14,4 @@
 - [Condiments](condiments.md)
 - [Misc](misc.md)
 - [Changes](changes.md)
+- [Bottle cutting](bottle-cutting.md)
