@@ -9,8 +9,7 @@ vegetarian mountain cheese made in Sussex.
 
 ![](images/cheese_lacave.jpg)
 
-And here's some Labneh (yoghurt) in a jar from Taj. It pretty much tastes like
-the beautiful goat cheese figuettes but at a fraction of the price. 
+And here's some Labneh (curd/yoghurt) in a reusable jar from Taj.
 
 ![](images/labneh_taj.jpg)
 
