@@ -15,3 +15,4 @@
 - [Misc](misc.md)
 - [Changes](changes.md)
 - [Bottle cutting](bottle-cutting.md)
+- [Zero waste shopping](zero-waste-shops.md)
