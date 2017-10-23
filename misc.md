@@ -4,7 +4,9 @@ The veggie ready meal section in Waitrose. Without exception each has a plastic 
 ![](images/readymeal_waitrose.jpg)
 
 Interestingly the frozen section has plenty of choice in simply packaged
-products.
+products. We like the plastic panel on fresh products?
+
+![](images/frozen-versus-fresh-products.jpg)
 
 # Newspapers
 In the week newspapers are generally OK but at the weekend the food/environment pullouts must come in a plastic bag for convenience.
@@ -20,7 +22,7 @@ justify bottled water. But it is of course treated. If you're concerned about
 chlorination for general consumption or home baking then it can be left to stand
 or boiled.
 
-Infinity Foods stock _Life_ refillable bottles if you'd rather have mineral
+Infinity Foods stock *Life* refillable bottles if you'd rather have mineral
 water: "which is sourced from springs on certified organic land in
 Pembrokeshire."
 

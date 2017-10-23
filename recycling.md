@@ -105,5 +105,4 @@ And here are some biodegradable bin bags from Infinity Foods. See
 # How long until it's gone?
 ![](images/how-long.jpg)
 
-
 [< Top](readme.md)
