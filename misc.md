@@ -52,4 +52,7 @@ New laptop. That's _so_ close to using only recyclable packaging. Come on, guys!
 
 ![](images/asus_laptop.jpg)
 
+# Articles
+* http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
+
 [< Top](readme.md)
