@@ -1,5 +1,10 @@
 [< Top](readme.md)
 
+# Toothbrushes
+A few biodegradable toothbrushes have started to appear.
+
+https://www.brushwithbamboo.com/
+
 # Cleaning products
 Lots of options for buying soap without packaging but this is by Faith In
 Nature and smells of rosemary. Bought from hisBe.
