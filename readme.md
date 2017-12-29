@@ -4,7 +4,6 @@ Image by [Plastic Soup Foundation](https://www.facebook.com/PlasticSoupFoundatio
 
 - [Mid-year review](myr.md)
 - [Sport](sport.md)
-- [Welfare](welfare.md)
 - [Recycling](recycling.md)
 - [Recipes](recipes.md)
 - [Baking](baking.md)
@@ -18,5 +17,6 @@ Image by [Plastic Soup Foundation](https://www.facebook.com/PlasticSoupFoundatio
 - [Fermentation](fermentation.md)
 - [Changes](changes.md)
 - [Bottle cutting](bottle-cutting.md)
+- [Animal welfare and passive aggression](welfare.md)
 - [Zero waste shopping](zero-waste-shops.md)
 - [Misc](misc.md)
