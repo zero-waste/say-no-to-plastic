@@ -3,9 +3,9 @@
 # Animal welfare and passive aggression (skip if not important to you)
 
 ## "We are evolved to eat meat"
-It cannot be denied that we derive sustenance by eating animals. But does that
-mean it's good for us? And the planet? We could *exist* by eating only puffins
-but would we be healthy? Equally we can live perfectly happily on plants.
+We have evolved *to be able* to eat animals. But does that mean it's good for
+us? And the planet? We could *exist* by eating only puffins but would we be
+healthy? Equally we can live perfectly happily on plants.
 
 ## "Drinking cows' milk is unnatural"
 We can only consume our own species?
