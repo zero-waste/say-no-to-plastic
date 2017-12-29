@@ -1,5 +1,7 @@
 ![](images/plastic_soup_foundation.jpg)
 
+Image by [Plastic Soup Foundation](https://www.facebook.com/PlasticSoupFoundation/).
+
 - [Mid-year review](myr.md)
 - [Sport](sport.md)
 - [Welfare](welfare.md)
