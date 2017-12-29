@@ -4,7 +4,7 @@
 
 ## "We are evolved to eat meat"
 We have evolved *to be able* to eat animals. But does that mean it's good for
-us? And the planet? We could *exist* by eating only puffins but would we be
+us? And the planet? We could exist by eating only puffins but would we be
 healthy? Equally we can live perfectly happily on plants.
 
 ## "Drinking cows' milk is unnatural"
