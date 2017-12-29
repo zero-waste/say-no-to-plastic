@@ -1,3 +1,5 @@
+![](images/plastic_soup_foundation.jpg)
+
 - [Mid-year review](myr.md)
 - [Sport](sport.md)
 - [Welfare](welfare.md)
