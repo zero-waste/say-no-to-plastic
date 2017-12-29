@@ -6,5 +6,6 @@ Places that encourage no packaging.
 * hisBe
 * Taj
 * Infinity Foods
+* The Open Market (Brighton)
 
 [< Top](readme.md)

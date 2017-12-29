@@ -4,9 +4,8 @@
 
 ## "We are evolved to eat meat"
 It cannot be denied that we derive sustenance by eating animals. But does that
-mean it's good for us? And the planet? We could *exist* by eating a mono diet
-of puffins but would we be healthy? Equally we can live perfectly happily on
-only plants.
+mean it's good for us? And the planet? We could *exist* by eating only puffins
+but would we be healthy? Equally we can live perfectly happily on only plants.
 
 ## "Drinking cows' milk is unnatural"
 We can only consume our own species?

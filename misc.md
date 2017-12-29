@@ -45,12 +45,6 @@ Brighton), Tom Griffiths (Flank) and Lauren Singer.
 
 - http://www.trashisfortossers.com/
 - http://www.silobrighton.com/
-- http://www.flankbrighton.com/
-
-# ASUS laptop
-New laptop. That's _so_ close to using only recyclable packaging. Come on, guys!
-
-![](images/asus_laptop.jpg)
 
 # Articles
 * http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
