@@ -102,6 +102,9 @@ And here are some biodegradable bin bags from Infinity Foods. See
 
 ![](images/bag_hisbe.jpg)
 
+# Alternative recycling companies
+* http://www.magpie.coop/services/greenbox
+
 # How long until it's gone?
 ![](images/how-long.jpg)
 
