@@ -15,30 +15,43 @@ comes in plastic so it makes it quite easy to avoid.
 
 ## 2017
 
-Packaging from the following:
-- Karg's crackers
-- Roasted fava beans
-- Cracker box
-- Crisps
-- Blister pack
-- Apple stickers
-- Coffee lids
-- Quorn sausage roll
-- Chocolate bar foil
+### July to December
+
+* Karg's wrappers and ties
+* Crisp packets
+* Sweet wrappers
+* Blister packs
+* Coffee lid
+* Quorn sausage roll packet
+* Chocolate bar foil
+* Coffee machine cups (damn machine occasionally ignores my mug!)
+
+![](images/zero-waste-review-2017-2.jpg)
+
+### January - June
+
+* Karg's wrappers
+* Roasted fava beans
+* Cracker box
+* Crisps
+* Blister pack
+* Apple stickers
+* Coffee lids
+* Quorn sausage roll
+* Chocolate bar foil
 
 ![](images/zero-waste-review-2017-1.jpg)
 
 ## 2016
 
-Clockwise from top left:
-- Tin foil from chocolate bars and breakfast roll
-- Fruit trays
-- Apple stickers
-- Coffee lids
-- Bike light/shirt packaging
-- Vitamins and medicine In blister packs
-- Assorted plastic bags (mostly fruit and bread)
-- Foil wrappers from crisps, seeds and chocolate
+* Tin foil from chocolate bars and breakfast roll
+* Fruit trays
+* Apple stickers
+* Coffee lids
+* Bike light/shirt packaging
+* Vitamins and medicine In blister packs
+* Assorted plastic bags (mostly fruit and bread)
+* Foil wrappers from crisps, seeds and chocolate
 
 ![](images/zero-waste-review-2016-2.jpg)
 
